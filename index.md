@@ -1,44 +1,47 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Barry O' Neill's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Barry O' Neill
+Software Engineer, Database Developer, Data & ICT Manager, National Biodiversity Data Centre, Ireland
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="boneill81@gmail.com">boneill81@gmail.com</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2006 - 2007`
+__BSc. (HONS) Commercial Software Development__ - *Waterford Institute of Technology, Co. Waterford*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2003 - 2006`
+__BSc. (ORD) in Computing (Software Development)__ - *Tipperary Institute, Clonmel, Co. Tipperary*
 
-- Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Proficiencies
 
-- Fellow
+- PHP
+- PHP frameworks including Laravel, Lumen, Symfony, Silex etc.
+- JavaScript
+- HTML
+- CSS
+- Ruby
+- XML
+- Databases/SQL (MYSQL, MSSQL, SQLite, DBase, PostgreSql, Oracle, Access, NoSQL, MongoDB)
+- ArcGIS & QGIS geospatial development
+- Visual Basic
+- C/C++
+- Java
+- Python
+- PowerShell
+- Basic
+- Windows scripting
+- Networking
+- Server/PC building and maintenance
+- Windows enterprise architecture management & maintenance
+- Business continuity (Backup systems & disaster recovery/mitigation)
+- Project management
+- Versioning systems GIT/Subversion
 
 
 
