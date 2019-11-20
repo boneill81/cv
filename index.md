@@ -12,10 +12,10 @@ Software Engineer, Database Developer, Data & ICT Manager, National Biodiversity
 ## Education
 
 `2006 - 2007`
-__BSc. (HONS) Commercial Software Development__ - *Waterford Institute of Technology, Co. Waterford*
+__BSc. (HONS) Commercial Software Development__ - Waterford Institute of Technology, Co. Waterford
 
 `2003 - 2006`
-__BSc. (ORD) in Computing (Software Development)__ - *Tipperary Institute, Clonmel, Co. Tipperary*
+__BSc. (ORD) in Computing (Software Development)__ - Tipperary Institute, Clonmel, Co. Tipperary
 
 
 ## Proficiencies
@@ -55,6 +55,6 @@ The setup, management and maintenance of international level enterprise architec
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 2019-11-20 -->
 
 
