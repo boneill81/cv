@@ -19,7 +19,7 @@ __BSc. (ORD) in Computing (Software Development)__ - Tipperary Institute, Clonme
 
 
 ## Proficiencies
-
+` `
 - PHP
 - PHP frameworks including Laravel, Lumen, Symfony, Silex etc.
 - JavaScript
