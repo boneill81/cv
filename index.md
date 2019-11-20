@@ -74,13 +74,12 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`2008 - Present`
+__Data & ICT Manager / Software Engineer__, National Biodiversity Data Centre, Waterford, Ireland
 
-- Warden
-- Minted coins
+The setup, management and maintenance of international level enterprise architecture. My position encompasses the full stack from hardware/network infrastructure design and implementation right up to the development and maintenance of many and diverse enterprise grade web-applications in variety of different programming languages.
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
