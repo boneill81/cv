@@ -51,7 +51,11 @@ __Data & ICT Manager / Software Engineer__, National Biodiversity Data Centre, W
 
 The setup, management and maintenance of international level enterprise architecture. My position encompasses the full stack from hardware/network infrastructure design and implementation right up to the development and maintenance of many and diverse enterprise grade web-applications in a variety of different programming languages. Strong project management skills are also key to ensuring success when working on projects which involve many different teams with wide and varied disciplines and skill-sets.
 
+`2007 (Aug-Dec)`
 
+**Software Engineer**, Sun Life Financial Ltd. Waterford
+
+At Sun Life I was involved in the development of web applications using Adobe Flex, Cold Fusion and Java. I also developed a Java tool to monitor, record and analyse usage metrics and statistics from the companies web collaboration platform.
 
 <!-- ### Footer
 
