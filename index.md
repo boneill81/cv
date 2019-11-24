@@ -55,15 +55,23 @@ __BSc. (ORD) in Computing (Software Development)__ - Tipperary Institute, Clonme
 
 The setup, management and maintenance of international level enterprise architecture. My position encompasses the full stack from hardware/network infrastructure design and implementation right up to the development and maintenance of many and diverse enterprise grade web-applications in a variety of different programming languages. Strong project management skills are also key to ensuring success when working on projects which involve many different teams with wide and varied disciplines and skill-sets.
 
+---
+
 `2007 (Aug-Dec)`
 
 **Software Developer**, Sun Life Financial Ltd. Waterford, Ireland
 
 At Sun Life I was involved in the development of web applications using Adobe Flex, Cold Fusion and Java. I also developed a Java tool to monitor, record and analyse usage metrics and statistics from the companies web collaboration platform.
 
+---
+
 `2007 (Apr-Aug)`
 
 **Oracle Database Software Engineer**, Core IBS, Mitchelstown, Co. Cork, Ireland
+
+The development and design of Oracle forms-based business software.
+
+---
 
 `2007`
 
@@ -71,15 +79,13 @@ At Sun Life I was involved in the development of web applications using Adobe Fl
 
 Evening tutoring of students in programming concepts through JAVA.
 
+---
 
 `2005 (Feb-Sept)`
 
 **ICT Specialist** South Tipperary County Council, Clonmel, Co. Tipperary, Ireland
 
 The maintenance, installation and servicing of enterprise architecture at South Tipperary County Council. During my time in this position I also developed a virus removal tool and a Visual Basic recording system for the acquisition of rent allowance details for the financial department. This application was later deployed throughout the County.
-
-
-
 
 
 <!-- ### Footer
