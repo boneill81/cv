@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Barry O' Neill's CV
-updated: 2020-08-07
+updated: 2020-07-08
 ---
 # Barry O' Neill
 Software Engineer/Solution Architect, [Compass Informatics](https://compass.ie) , Ireland
