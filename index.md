@@ -54,23 +54,23 @@ Senior level full-stack software developer & ICT Admin with 15+ years of industr
 
 ## Experience
 
-**Software Engineer / Solution Architect (Jan 2020 - Present)**, *[Compass Informatics](https://compass.ie), Dublin*  
+**Software Engineer / Solution Architect (Jan 2020 - Present)**, *[Compass Informatics](https://compass.ie)*  
 Development of a wide and varied suite of software using both proprietary and open source technologies, in multiple languages including ASP.NET, PHP & Python. Geo-spatial development is a very significant aspect of many of the projects on which I work, hence strong GIS and python scripting skills are very important in my daily tasks. Strong project management skills are also of great importance when working on projects which involve many different teams across multiple organisations and with wide and varied disciplines and skill-sets. I also utilise my ICT Admin and management skills on a daily basis as part of Compass Informatics' ICT System's Services team.
 
-**ICT Manager / Software Developer (Jan 2020 - Present)**, *[National Biodiversity Data Centre](https://www.biodiversityireland.ie), Waterford ([Compass Informatics](https://compass.ie)), Dublin*  
+**ICT Manager / Software Developer (Jan 2020 - Present)**, *[National Biodiversity Data Centre](https://www.biodiversityireland.ie) ([Compass Informatics](https://compass.ie))*  
 In January of 2020, I transitioned in my role at Compass Informatics. However I still manage the Data Centre's ICT infrastructure and software development in my role at Compass Informatics. The National Biodiversity Data Centre is run by Compass Informatics under service level agreement to the [Heritage Council of Ireland](https://www.heritagecouncil.ie).
 
-**Data & ICT Manager / Software Developer (2008 - 2019)**, *[National Biodiversity Data Centre](https://www.biodiversityireland.ie), Waterford ([Compass Informatics](https://compass.ie)), Dublin*  
+**Data & ICT Manager / Software Developer (2008 - 2019)**, *[National Biodiversity Data Centre](https://www.biodiversityireland.ie) ([Compass Informatics](https://compass.ie))*  
 During my time at the National Biodiversity Data Centre, I was responsible for the set-up, management and maintenance of an international level enterprise architecture. My position encompassed the full stack from hardware/network infrastructure design and implementation right up to the development and maintenance of many and diverse enterprise grade web-applications in a variety of different programming languages. Strong project management skills were key to ensuring day to day success when working on projects which involved many different teams with wide and varied disciplines and skill-sets. The National Biodiversity Data Centre is run by Compass Informatics under service level agreement to the [Heritage Council of Ireland](https://www.heritagecouncil.ie).
 
-**Software Developer (2007 Aug-Dec)**, *Sun Life Financial Ltd., Waterford*  
+**Software Developer (2007 Aug-Dec)**, *Sun Life Financial Ltd.*  
 At Sun Life I was involved in the development of web applications using Adobe Flex, Cold Fusion and Java. I also developed a Java tool to monitor, record and analyse usage metrics and statistics from the companies web-based collaboration platform.
 
-**Oracle Database Software Engineer (2007 Apr-Aug)**, *Core IBS Ltd., Cork*  
+**Oracle Database Software Engineer (2007 Apr-Aug)**, *Core IBS Ltd.*  
 The development and design of Oracle forms-based business software.
 
 **Programming Tutor (2007)**, *Tipperary*  
 Evening tutoring of students in programming concepts through JAVA and PHP.
 
-**ICT Specialist (2005 Feb-Sept)** *South Tipperary County Council, Tipperary*  
+**ICT Specialist (2005 Feb-Sept)** *South Tipperary County Council*  
 The maintenance, installation and servicing of enterprise architecture at South Tipperary County Council. During my time in this position I also developed a virus removal tool and a Visual Basic recording system for the acquisition of rent allowance details for the financial department. This application was later deployed throughout the County.
