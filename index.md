@@ -33,6 +33,7 @@ Senior level full-stack software developer & ICT Admin with 15+ years of industr
 - XML
 - Databases/SQL (MYSQL, MSSQL, SQLite, DBase, PostgreSql, Oracle, Access, NoSQL, MongoDB)
 - ArcGIS & QGIS geo-spatial development
+- ArcPy script tool development
 - Visual Basic
 - C/C++
 - Java
